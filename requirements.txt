@@ -1,0 +1,2 @@
+# Required library for the Telegram bot functionality
+python-telegram-bot~=21.1 
